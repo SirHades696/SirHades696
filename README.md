@@ -1,0 +1,6 @@
+- 👽 Hi, I’m @SirHades696
+- 🤯 I'm interested in python scripts and GIS (ArcGIS and QGIS) 🌎.
+- 💻 I'm currently learning Flask and Data Analytics 📊.
+- 🎮 I like video games like shooters and fighting for example CoD and MK. 👾
+- 🎮 My gamertag in PS is SirHades696. 👽
+- 🤓 I like to be constantly learning new things and skills. 💫
