@@ -4,3 +4,4 @@
 - 🎮 I like video games like shooters and fighting for example CoD and MK. 👾
 - 🎮 My gamertag in PS is SirHades696. 👽
 - 🤓 I like to be constantly learning new things and skills. 💫
+- 🦖 I love Dubstep, Hardstyle and Psytrance music. 🎧
