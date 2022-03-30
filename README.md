@@ -31,7 +31,8 @@
 
 <h2 align="center">GitHub Stats</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirHades696&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="sirhades696" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirHades696&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="sirhades696" /></p>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SirHades696&show_icons=true&theme=tokyonight&locale=es" alt="sirhades696" />
 </p>
 <h2 align="center">Heroku Stats</h3>
