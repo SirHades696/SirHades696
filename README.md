@@ -1,5 +1,5 @@
-<p align="center">
-<img src="sir.png">
+<p align="center" >
+<img src="sir.png" width="128px">
 <h1 align="center">Hi 👋, I'm Emmanuel 👽</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 </p>
